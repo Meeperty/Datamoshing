@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6de6b06403ce690479a6b43ec86a9d5b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - dmMaterial: {fileID: 2100000, guid: 7fabaf4ac8fa0594684123fe4b5ec03c, type: 2}
+  - dmShader: {fileID: -6465566751694194690, guid: c30131b285ba6c042aeacbc97874dd0f,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
